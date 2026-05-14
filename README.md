@@ -24,10 +24,10 @@ ce160d-lto-emissions/
 ├── report/
 │   └── CE160D_Final_Report.pdf
 ├── notebooks/
-│   ├── 01_Data_collecting.ipynb
-│   ├── 02_EDA.ipynb
-│   ├── 03_clustering_pca.ipynb
-│   └── 04_Regression_modeling.ipynb
+│   ├── Data_collecting.ipynb
+│   ├── EDA.ipynb
+│   ├── clustering.ipynb
+│   └── Regression_modeling.ipynb
 ├── images/
 │   └── (charts and figures)
 ├── data/
