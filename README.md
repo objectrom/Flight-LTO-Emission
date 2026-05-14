@@ -5,7 +5,6 @@
 
 > A data-driven evaluation of aircraft Landing and Take-Off (LTO) emissions and their direct impact on fenceline communities near major U.S. airports.
 
-**Team:** Heesung Yoon · Jon Davis · Ole Jo Legvold · Yvan Pena
 
 ---
 
