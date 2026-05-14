@@ -28,8 +28,6 @@ ce160d-lto-emissions/
 │   ├── 02_eda.ipynb
 │   ├── 03_clustering_pca.ipynb
 │   └── 04_predictive_models.ipynb
-├── presentation/
-│   └── slides.pptx
 ├── images/
 │   └── (charts and figures)
 ├── data/
